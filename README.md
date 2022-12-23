@@ -14,6 +14,11 @@ ssh ubuntu@3.83.128.167 -i pangea-challenge.pem
 
 - Now, you are in the intance
 
+```bash
+cd projects
+cd pangea-challenge
+```
+
 - Start the project
 
 ```
