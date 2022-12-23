@@ -19,7 +19,7 @@ cd projects
 cd pangea-challenge
 ```
 
-- Start the project
+- Build the project
 
 ```
 npm run build
